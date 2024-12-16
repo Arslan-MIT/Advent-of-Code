@@ -1,6 +1,6 @@
 # 🎄 **𝗖𝗼𝗱𝗶𝗻𝗴 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 – 𝗟𝗲𝘁 𝘁𝗵𝗲 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗯𝗲𝗴𝗶𝗻!💡** 
 <div align="center">
-  <img src="[https://wp.technologyreview.com/wp-content/uploads/2021/12/aoc-santa-hat.gif?w=1177]([https://www.google.com/imgres?q=advent%20of%20code&imgurl=https%3A%2F%2Fwww.ddanieltan.com%2Fposts%2FaocScala%2FaocLogo.jpeg&imgrefurl=https%3A%2F%2Fwww.ddanieltan.com%2Fposts%2Faocscala%2F&docid=qwkutDynZBjcAM&tbnid=46yYkK2PSSmemM&vet=12ahUKEwjD8dyRnK2KAxW3R_EDHa1sCU4QM3oECBYQAA..i&w=1240&h=698&hcb=2&ved=2ahUKEwjD8dyRnK2KAxW3R_EDHa1sCU4QM3oECBYQAA](https://www.ddanieltan.com/posts/aocScala/aocLogo.jpeg))" alt="Advent of Code" width="600" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://www.ddanieltan.com/posts/aocscala/aocLogo.jpeg" alt="Advent of Code" width="600" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
   [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2024-brightgreen?style=for-the-badge&logo=advent-of-code&logoColor=white)](https://adventofcode.com/)
 
